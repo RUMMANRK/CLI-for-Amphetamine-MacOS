@@ -109,7 +109,7 @@ If the time is specified incorrectly, the script will provide an error and promp
 
 - The script converts the provided time to a 24-hour format using the `convert_to_24hr` function.
 - It calculates the duration until the specified time and initiates an Amphetamine session using `osascript` to execute the AppleScript commands.
-- The script uses a temporary file (`/tmp/caffeinate_end_time`) to store information about the session end time, which is deleted when the session is stopped.
+
 
 ## Notes
 
