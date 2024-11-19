@@ -48,7 +48,7 @@ To stop an active Amphetamine session:
 ./wake.sh stop
 ```
 
-This command will end the current Amphetamine session and delete any temporary files used by the script.
+This command will end the current Amphetamine session.
 
 ### Checking the Status of a Wake Session
 
